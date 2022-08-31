@@ -1,5 +1,8 @@
-database
-  user:jorge
-  password:123
-server
-  port:8080
+database:
+  user: jorge
+  password: 123
+server:
+  port: 8080
+  host: "localhost"
+email:
+  user: guilherme.nicoleti@fatec.sp.gov.br
